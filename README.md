@@ -52,5 +52,5 @@ The following column headers are to be filled out. </br>
 
 
 ## Prepare metadata for fastq files
-[!NOTE]
+>[!NOTE]
 To determine which sample a particular barcode belongs to, use the `Flowcell ID` and `barcode number` in the `redcap_RITM.csv`.
