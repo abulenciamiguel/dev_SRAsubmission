@@ -6,13 +6,14 @@
 Fastq files that will be submitted can be found in the `fastq_pass` directory.
 
 ### 1. Decompress `fastq.gz` files
+> [!IMPORTANT]
+> The `FAU03107` in the `FAU03107_pass_barcode03_6bbd8ba6_0.fastq` is the Flowcell ID. This will be used later.
 ```
 cd fastq_pass
 
 gunzip */*.gz
 ```
-> [!IMPORTANT]
-> The `FAU03107` in the `FAU03107_pass_barcode03_6bbd8ba6_0.fastq` is the Flowcell ID. This will be used later.
+
 
 ### 2. List all directories into a file
 
@@ -32,3 +33,5 @@ done < list.txt
 
 
 ## Prepare metadata for Biosamples
+
+Refer to `redcap_RITM.csv`
