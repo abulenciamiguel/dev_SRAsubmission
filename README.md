@@ -49,3 +49,8 @@ The following column headers are to be filled out. </br>
 | *host_disease | `COVID-19` | Fill out as is |
 | *isolate | hCoV-19/Philippines/PH-RITM-3839/2022 | Follow the pattern: `hCoV-19/Philippines`/`gisaid_name`/`year` |
 | *isolation_source | oropharyngeal/nasopharyngeal swab | Column `sample_type_collected` of `SARS-CoV-2.cl.1.0.xlsx`: 0 = `serum`; 1 = `oropharyngeal/nasopharyngeal swab`; 2 = `other` |
+
+
+## Prepare metadata for fastq files
+[!NOTE]
+To determine which sample a particular barcode belongs to, use the `Flowcell ID` and `barcode number` in the `redcap_RITM.csv`.
