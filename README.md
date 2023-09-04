@@ -33,19 +33,19 @@ done < list.txt
 
 
 ## Prepare metadata for Biosamples
-Refer to `redcap_RITM.csv`
+A sample template `SARS-CoV-2.cl.1.0.xlsx` is provided. Refer to `redcap_RITM.csv`
 
 The following column headers are to be filled out. </br>
 
 | Headers | Example | Remarks |
 | ------- | ------- | ------- |
-| *sample_name | PH-RITM-3839-2022 | `gisaid_name` added with `-year`; unique for each sample |
+| *sample_name | PH-RITM-3839-2022 | Column `gisaid_name` of `SARS-CoV-2.cl.1.0.xlsx` added with `-year`; unique for each sample |
 | bioproject_accession | PRJNA42069 | Same for all samples |
 | *organism | `Severe acute respiratory syndrome coronavirus 2` | Fill out as is |
-| *collected_by | Oriental Mindoro Provincial Hospital | `originating_lab` |
-| *collection_date | 12/26/2022 | `date_collected` |
+| *collected_by | Oriental Mindoro Provincial Hospital | Column `originating_lab` of `SARS-CoV-2.cl.1.0.xlsx` |
+| *collection_date | 12/26/2022 | Column `date_collected` of `SARS-CoV-2.cl.1.0.xlsx` |
 | *geo_loc_name | `Philippines` | Fill out as is |
 | *host | `Homo sapiens` | Fill out as is |
 | *host_disease | `COVID-19` | Fill out as is |
 | *isolate | hCoV-19/Philippines/PH-RITM-3839/2022 | Follow the pattern: `hCoV-19/Philippines`/`gisaid_name`/`year` |
-| *isolation_source | oropharyngeal/nasopharyngeal swab | `sample_type_collected`: 0 = `serum`; 1 = `oropharyngeal/nasopharyngeal swab`; 2 = `other` |
+| *isolation_source | oropharyngeal/nasopharyngeal swab | Column `sample_type_collected` of `SARS-CoV-2.cl.1.0.xlsx`: 0 = `serum`; 1 = `oropharyngeal/nasopharyngeal swab`; 2 = `other` |
