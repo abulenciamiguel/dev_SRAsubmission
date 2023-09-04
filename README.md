@@ -33,5 +33,21 @@ done < list.txt
 
 
 ## Prepare metadata for Biosamples
-
 Refer to `redcap_RITM.csv`
+
+The following columns are to be filled out. </br>
+*sample_name
+bioproject_accession
+*organism
+*collected_by
+*collection_date
+*geo_loc_name
+*host
+*host_disease
+*isolate
+*isolation_source
+
+
+| Headers | Example | Information |
+| ------- | ------- | ----------- |
+| *sample_name | asdasd |  asdasd |
