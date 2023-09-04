@@ -63,7 +63,7 @@ The following column headers are to be filled out. </br>
 | ------- | ------- | ------- |
 | biosample_accession | SAMN420420420 | This will be provided by `SRA` after submitting the metadata of Biosamples |
 | library_ID | PH-RITM-3839-2022 | This is the `*sample_name` in the metadata of Biosamples |
-| title | ONT sequencing of SARS-CoV-2: PH-RITM-1387-2022 | Follow the pattern: `ONT sequencing of SARS-CoV-2: ``*sample_name` |
+| title | ONT sequencing of SARS-CoV-2: PH-RITM-1387-2022 | Follow the pattern: `ONT sequencing of SARS-CoV-2:` `*sample_name` |
 | library_strategy | `WGS` | Fill out as is |
 | library_source | `VIRAL RNA` | Fill out as is |
 | library_selection | `PCR` | Fill out as is |
