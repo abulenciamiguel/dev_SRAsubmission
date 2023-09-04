@@ -48,6 +48,15 @@ bioproject_accession
 *isolation_source
 
 
-| Headers | Example | Information |
-| ------- | ------- | ----------- |
-| *sample_name | asdasd |  asdasd |
+| Headers | Example |
+| ------- | ------- |
+| *sample_name | PH-RITM-3839-2022 |
+| bioproject_accession | PRJNA942069 |
+| *organism | Severe acute respiratory syndrome coronavirus 2 |
+| *collected_by | Oriental Mindoro Provincial Hospital |
+| *collection_date | 12/26/2022 |
+| *geo_loc_name | Philippines |
+| *host | Homo sapiens |
+| *host_disease | COVID-19 |
+| *isolate | hCoV-19/Philippines/PH-RITM-3839/2022 |
+| *isolation_source | oropharyngeal/nasopharyngeal swab| 
