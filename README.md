@@ -37,15 +37,15 @@ Refer to `redcap_RITM.csv`
 
 The following column headers are to be filled out. </br>
 
-| Headers | Example |
-| ------- | ------- |
-| *sample_name | PH-RITM-3839-2022 |
-| bioproject_accession | PRJNA942069 |
-| *organism | Severe acute respiratory syndrome coronavirus 2 |
-| *collected_by | Oriental Mindoro Provincial Hospital |
-| *collection_date | 12/26/2022 |
-| *geo_loc_name | Philippines |
-| *host | Homo sapiens |
-| *host_disease | COVID-19 |
-| *isolate | hCoV-19/Philippines/PH-RITM-3839/2022 |
-| *isolation_source | oropharyngeal/nasopharyngeal swab| 
+| Headers | Example | Remarks |
+| ------- | ------- | ------- |
+| *sample_name | PH-RITM-3839-2022 | asdasd |
+| bioproject_accession | PRJNA942069 | asdasd |
+| *organism | Severe acute respiratory syndrome coronavirus 2 | asdasd |
+| *collected_by | Oriental Mindoro Provincial Hospital | asdasd |
+| *collection_date | 12/26/2022 | asdasd |
+| *geo_loc_name | Philippines | asdasd |
+| *host | Homo sapiens | asdasd |
+| *host_disease | COVID-19 | asdasd |
+| *isolate | hCoV-19/Philippines/PH-RITM-3839/2022 | asdasd |
+| *isolation_source | oropharyngeal/nasopharyngeal swab | asdasd |
