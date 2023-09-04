@@ -51,6 +51,10 @@ The following column headers are to be filled out. </br>
 | *isolation_source | oropharyngeal/nasopharyngeal swab | Column `sample_type_collected` of `SARS-CoV-2.cl.1.0.xlsx`: 0 = `serum`; 1 = `oropharyngeal/nasopharyngeal swab`; 2 = `other` |
 
 
+## Upload metadata for Biosamples
+Go to [SRA Submission page](https://submit.ncbi.nlm.nih.gov/subs/sra/) click `Log in` button on the top right corner. You may use your google account to log in.
+
+
 ## Prepare metadata for fastq files
 A sample template `SRA_metadata_acc.xlsx` is provided.
 
