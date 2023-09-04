@@ -39,7 +39,7 @@ The following column headers are to be filled out. </br>
 
 | Headers | Example | Remarks |
 | ------- | ------- | ------- |
-| *sample_name | PH-RITM-3839-2022 | gisaid_name added with "-YEAR" |
+| *sample_name | PH-RITM-3839-2022 | `gisaid_name` added with "-YEAR" |
 | bioproject_accession | PRJNA942069 | asdasd |
 | *organism | Severe acute respiratory syndrome coronavirus 2 | asdasd |
 | *collected_by | Oriental Mindoro Provincial Hospital | asdasd |
