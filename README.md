@@ -78,3 +78,9 @@ The following column headers are to be filled out. </br>
 | design_description | `Whole genome tiled amplicon; artic primer v4.1; ncov2019-artic-nf, artic 1.2.1, minimap2 2.17, nanopolish 0.13.2` | Fill out as is |
 | filetype | `fastq` | Fill out as is |
 | filename | barcode30.tar.gz | The corresponding barcode file |
+
+
+## Upload metadata and fastq files
+Go to [SRA Submission page](https://submit.ncbi.nlm.nih.gov/subs/sra/) and click `Log in` button on the top right corner. You may use your google account to log in. </br>
+
+After logging in, follow the succeeding steps [here](https://github.com/abulenciamiguel/dev_SRAsubmission/blob/master/data/metadata_SRA.pdf).
