@@ -52,8 +52,9 @@ The following column headers are to be filled out. </br>
 
 
 ## Upload metadata for Biosamples
-Go to [SRA Submission page](https://submit.ncbi.nlm.nih.gov/subs/sra/) and click `Log in` button on the top right corner. You may use your google account to log in.
+Go to [SRA Submission page](https://submit.ncbi.nlm.nih.gov/subs/sra/) and click `Log in` button on the top right corner. You may use your google account to log in. </br>
 
+Follow the steps [here](https://github.com/abulenciamiguel/dev_SRAsubmission/blob/master/data/metadata_biosamples.pdf).
 
 ## Prepare metadata for fastq files
 A sample template `SRA_metadata_acc.xlsx` is provided.
